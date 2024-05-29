@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: smtp.secureserver.net
+mx: mailstore1.secureserver.net
+max_age: 604800
